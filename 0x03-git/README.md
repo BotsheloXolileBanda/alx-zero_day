@@ -1,1 +1,1 @@
-A project on the workings of git
+A project on the workings of git also updated
